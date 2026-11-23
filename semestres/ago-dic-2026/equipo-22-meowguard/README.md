@@ -11,7 +11,7 @@
 | Nombre | Matrícula | Rol | GitHub |
 |--------|-----------|-----|--------|
 | Mónica Moreno Torres | 23241119 | 🧠 Servidor Python/IA • ☁️ Firebase/Interfaz • 📝 Documentación | @momots-bit |
-| Leonardo Gael Niño Cabrera | 2324XXXX | 🔧 Firmware ESP32 • 🔩 Hardware/Carcasa | @usuario_leonardo |
+| Leonardo Gael Niño Cabrera | 23240382 | 🔧 Firmware ESP32 • 🔩 Hardware/Carcasa | @usuario_leonardo |
 
 ---
 
