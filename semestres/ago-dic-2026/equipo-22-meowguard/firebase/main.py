@@ -2,7 +2,7 @@
 # Proyecto:  MEOWGUARD — Sistema Robótico Autónomo de Detección y Control de Plagas
 # Archivo:   main.py
 # Objetivo:  Lectura de sensores, suscripción MQTT y control de motores y atomizador
-# Equipo:    Mónica Moreno Torres [MATRÍCULA], Leonardo Gael Niño Cabrera [MATRÍCULA]
+# Equipo:    Mónica Moreno Torres [23241119], Leonardo Gael Niño Cabrera [23240382]
 # Materia:   Sistemas Programables — ISC TecNM León
 # Semestre:  ago-dic-2026
 # ============================================
