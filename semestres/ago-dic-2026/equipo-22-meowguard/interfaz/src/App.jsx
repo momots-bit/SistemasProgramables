@@ -11,7 +11,7 @@ import { initializeApp, getApps } from 'firebase/app';
 import { getDatabase, ref, onValue } from 'firebase/database';
 
 const firebaseConfigDefault = {
-  apiKey: "AIzaSyAns9-uHrStimIxJ6RerGy3xyMQaM7ijWU",
+  apiKey: "TU_APY_KEY",
   authDomain: "meowguard-e1e06.firebaseapp.com",
   databaseURL: "https://meowguard-e1e06-default-rtdb.firebaseio.com",
   projectId: "meowguard-e1e06"
